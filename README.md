@@ -9,9 +9,9 @@
 
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=yellow)](https://mail.google.com/mail/u/0/#inbox)
-[![Gmail](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=indigo)](https://www.instagram.com/silva._kaiio/)
-[![Gmail](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/PVJYPBLPALJJN1)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-da-silva-souza-a6356a267/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=indigo)](https://www.instagram.com/silva._kaiio/)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/PVJYPBLPALJJN1)
 ***
 
 ![Kaio's GitHub stats](https://github-readme-stats.vercel.app/api?username=OkaioSilva&show_icons=true&theme=cobalt)
