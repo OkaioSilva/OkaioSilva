@@ -1,5 +1,6 @@
-
+<div align="center">
  🧑‍🎓 I'm not studying for a degree at the moment! Just taking online courses
+</div>
  <br>
  <br>
 
